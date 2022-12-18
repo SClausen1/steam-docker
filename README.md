@@ -1,2 +1,2 @@
 # steam-docker
-A lightweight linux container for playing games on steam
+A lightweight docker container for playing games on steam
